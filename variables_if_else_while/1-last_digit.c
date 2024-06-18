@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - Hello */
-
-/* betty style doc for function main goes there */
+/**
+* main - Hello
+*
+* Return: Always 0.
+*/
 int main(void)
 {
 	int n, 1;
