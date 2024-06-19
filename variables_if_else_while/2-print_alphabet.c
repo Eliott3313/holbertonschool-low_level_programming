@@ -1,6 +1,12 @@
 #include <stdio.h>
+#include <time.h>
+#include <stdio.h>
+/**
+* main - Hello
+* Return : Always 0.
+*/
 
-int main(void) 
+int main(void)
 {
 	for (int letter = 'a'; letter <= 'z'; letter++)
 	{
@@ -8,5 +14,5 @@ int main(void)
 	}
 	putchar('\n');
 
-	return 0;
+	return (0);
 }
