@@ -11,7 +11,7 @@ int main(void)
 	int num1;
 	char letter;
 
-	for (num1 = 0 ; num1 <= 10 ; num1++)
+	for (num1 = '0' ; num1 <= '9' ; num1++)
 	{
 		putchar(num1);
 	}
