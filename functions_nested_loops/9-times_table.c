@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
-*time_table - Hello
+*times_table - Hello
 *Return: none
 */
 
