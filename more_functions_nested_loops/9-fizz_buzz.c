@@ -11,10 +11,6 @@ int main(void)
 
 	for (num = 1; num < 101; num++)
 	{
-		if (num == 101)
-		{
-			printf("Buzz");
-		}
 		if (num % 3 == 0 && num % 5 == 0)
 		{
 			printf("FizzBuzz ");
@@ -32,6 +28,7 @@ int main(void)
 			printf("%i ", num);
 		}
 	}
+	printf("Buzz");
 	putchar('\n');
 	return (0);
 }
