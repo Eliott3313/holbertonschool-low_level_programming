@@ -27,6 +27,10 @@ int main(void)
 		{
 			printf("%i ", num);
 		}
+		if (num == 101)
+		{
+			putchar('\n');
+		}
 	}
 	putchar('\n');
 	return (0);
