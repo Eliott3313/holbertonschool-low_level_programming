@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 *print_line - Hello
-*Return: 0 Success
+*@n: num checked
 */
 
 void print_line(int n)
