@@ -2,8 +2,7 @@
 #include <stdio.h>
 /**
 *_puts - Hello
-*
-*
+*@str: string
 */
 
 void _puts(char *str)
