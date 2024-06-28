@@ -3,9 +3,10 @@
 /**
 *_strlen - Hello
 *@s: string
+*Return: lenght Success
 */
 
-int _strlen (char *s)
+int _strlen(char *s)
 {
 	int lenght = 0;
 
